@@ -1,7 +1,7 @@
 Hi 👋 My name is zApolloge
 ==========================
 
-Web Developer
+Web Developer and Designer
 -------------
 
 I've been learning to code for 1 year. I started with HTML, I like to code on both the backend and the frontend.
