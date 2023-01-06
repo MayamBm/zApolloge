@@ -1,7 +1,7 @@
-Hi 👋 My name is zApolloge
+Hi 👋 My name is Mayan
 ==========================
 
-Web Developer and Designer
+Developer and Designer
 -------------
 
 I've been learning to code for 1 year. I started with HTML, I like to code in front-end and back-end.
