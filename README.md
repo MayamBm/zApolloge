@@ -1,4 +1,4 @@
-Hi 👋 My name is Mayan
+Hi 👋 My name is Mayam
 ==========================
 
 Developer and Designer
