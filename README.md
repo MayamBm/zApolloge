@@ -1,7 +1,7 @@
 Hi 👋 My name is Mayam
 ==========================
 
-Developer and Designer
+Developer
 -------------
 
 I've been learning to code for 1 year. I started with HTML, I like to code in front-end and back-end.
